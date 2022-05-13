@@ -1,0 +1,70 @@
+adyta_kustanto-m_akt_c1_1_combine_audio silakan ibu di rumah gimana tidurnya sudah nggak sesak sudah bisa rebahan ya 
+adyta_kustanto-m_akt_c1_1_pitch_change silakan ibu di rumah gimana tidurnya sudah nggak sesak sudah bisa rebahan ya 
+adyta_kustanto-m_akt_c1_1_time_stretch silakan ibu di rumah gimana tidurnya sudah nggak sesak sudah bisa rebahan ya 
+adyta_kustanto-m_akt_c1_1_reverb silakan ibu di rumah gimana tidurnya sudah nggak sesak sudah bisa rebahan ya 
+adyta_kustanto-m_akt_c1_1_combine_pitch silakan ibu di rumah gimana tidurnya sudah nggak sesak sudah bisa rebahan ya 
+adyta_kustanto-m_akt_c1_1_combine_time_stretch silakan ibu di rumah gimana tidurnya sudah nggak sesak sudah bisa rebahan ya 
+adyta_kustanto-m_akt_c1_1_combine_reverb silakan ibu di rumah gimana tidurnya sudah nggak sesak sudah bisa rebahan ya 
+adyta_kustanto-m_akt_c1_10_combine_audio terus fungsi jantungnya berapa persen nanti kita akan evaluasi kembali dalam waktu tiga bulan lagi
+adyta_kustanto-m_akt_c1_10_pitch_change terus fungsi jantungnya berapa persen nanti kita akan evaluasi kembali dalam waktu tiga bulan lagi
+adyta_kustanto-m_akt_c1_10_time_stretch terus fungsi jantungnya berapa persen nanti kita akan evaluasi kembali dalam waktu tiga bulan lagi
+adyta_kustanto-m_akt_c1_10_reverb terus fungsi jantungnya berapa persen nanti kita akan evaluasi kembali dalam waktu tiga bulan lagi
+adyta_kustanto-m_akt_c1_10_combine_pitch terus fungsi jantungnya berapa persen nanti kita akan evaluasi kembali dalam waktu tiga bulan lagi
+adyta_kustanto-m_akt_c1_10_combine_time_stretch terus fungsi jantungnya berapa persen nanti kita akan evaluasi kembali dalam waktu tiga bulan lagi
+adyta_kustanto-m_akt_c1_10_combine_reverb terus fungsi jantungnya berapa persen nanti kita akan evaluasi kembali dalam waktu tiga bulan lagi
+adyta_kustanto-m_akt_c1_11_combine_audio memang target jangka pendek kita satu bulan ke depan bengkak ibu berkurang syukur syukur bisa hilang seluruhnya
+adyta_kustanto-m_akt_c1_11_pitch_change memang target jangka pendek kita satu bulan ke depan bengkak ibu berkurang syukur syukur bisa hilang seluruhnya
+adyta_kustanto-m_akt_c1_11_time_stretch memang target jangka pendek kita satu bulan ke depan bengkak ibu berkurang syukur syukur bisa hilang seluruhnya
+adyta_kustanto-m_akt_c1_11_reverb memang target jangka pendek kita satu bulan ke depan bengkak ibu berkurang syukur syukur bisa hilang seluruhnya
+adyta_kustanto-m_akt_c1_11_combine_pitch memang target jangka pendek kita satu bulan ke depan bengkak ibu berkurang syukur syukur bisa hilang seluruhnya
+adyta_kustanto-m_akt_c1_11_combine_time_stretch memang target jangka pendek kita satu bulan ke depan bengkak ibu berkurang syukur syukur bisa hilang seluruhnya
+adyta_kustanto-m_akt_c1_11_combine_reverb memang target jangka pendek kita satu bulan ke depan bengkak ibu berkurang syukur syukur bisa hilang seluruhnya
+adyta_kustanto-m_akt_c1_12_combine_audio nafsu makan ibu sudah ada ya makan enak perutnya nggak sebat lagi ibu sudah bisa berjalan lebih lama
+adyta_kustanto-m_akt_c1_12_pitch_change nafsu makan ibu sudah ada ya makan enak perutnya nggak sebat lagi ibu sudah bisa berjalan lebih lama
+adyta_kustanto-m_akt_c1_12_time_stretch nafsu makan ibu sudah ada ya makan enak perutnya nggak sebat lagi ibu sudah bisa berjalan lebih lama
+adyta_kustanto-m_akt_c1_12_reverb nafsu makan ibu sudah ada ya makan enak perutnya nggak sebat lagi ibu sudah bisa berjalan lebih lama
+adyta_kustanto-m_akt_c1_12_combine_pitch nafsu makan ibu sudah ada ya makan enak perutnya nggak sebat lagi ibu sudah bisa berjalan lebih lama
+adyta_kustanto-m_akt_c1_12_combine_time_stretch nafsu makan ibu sudah ada ya makan enak perutnya nggak sebat lagi ibu sudah bisa berjalan lebih lama
+adyta_kustanto-m_akt_c1_12_combine_reverb nafsu makan ibu sudah ada ya makan enak perutnya nggak sebat lagi ibu sudah bisa berjalan lebih lama
+adyta_kustanto-m_akt_c1_13_combine_audio karena ketika kita menderita penyakit jantung kita tidak serta merta bisa sembuh dalam satu bulan
+adyta_kustanto-m_akt_c1_13_pitch_change karena ketika kita menderita penyakit jantung kita tidak serta merta bisa sembuh dalam satu bulan
+adyta_kustanto-m_akt_c1_13_time_stretch karena ketika kita menderita penyakit jantung kita tidak serta merta bisa sembuh dalam satu bulan
+adyta_kustanto-m_akt_c1_13_reverb karena ketika kita menderita penyakit jantung kita tidak serta merta bisa sembuh dalam satu bulan
+adyta_kustanto-m_akt_c1_13_combine_pitch karena ketika kita menderita penyakit jantung kita tidak serta merta bisa sembuh dalam satu bulan
+adyta_kustanto-m_akt_c1_13_combine_time_stretch karena ketika kita menderita penyakit jantung kita tidak serta merta bisa sembuh dalam satu bulan
+adyta_kustanto-m_akt_c1_13_combine_reverb karena ketika kita menderita penyakit jantung kita tidak serta merta bisa sembuh dalam satu bulan
+adyta_kustanto-m_akt_c1_14_combine_audio ada satu proses perjalanan penyakit yang dibutuhkan untuk membaik atau sembuh secara bertahap
+adyta_kustanto-m_akt_c1_14_pitch_change ada satu proses perjalanan penyakit yang dibutuhkan untuk membaik atau sembuh secara bertahap
+adyta_kustanto-m_akt_c1_14_time_stretch ada satu proses perjalanan penyakit yang dibutuhkan untuk membaik atau sembuh secara bertahap
+adyta_kustanto-m_akt_c1_14_reverb ada satu proses perjalanan penyakit yang dibutuhkan untuk membaik atau sembuh secara bertahap
+adyta_kustanto-m_akt_c1_14_combine_pitch ada satu proses perjalanan penyakit yang dibutuhkan untuk membaik atau sembuh secara bertahap
+adyta_kustanto-m_akt_c1_14_combine_time_stretch ada satu proses perjalanan penyakit yang dibutuhkan untuk membaik atau sembuh secara bertahap
+adyta_kustanto-m_akt_c1_14_combine_reverb ada satu proses perjalanan penyakit yang dibutuhkan untuk membaik atau sembuh secara bertahap
+adyta_kustanto-m_akt_c1_15_combine_audio obat yang menghilangkan pembengkakan akan kita kurangi sehingga pipisnya tidak terlalu berlebihan lagi
+adyta_kustanto-m_akt_c1_15_pitch_change obat yang menghilangkan pembengkakan akan kita kurangi sehingga pipisnya tidak terlalu berlebihan lagi
+adyta_kustanto-m_akt_c1_15_time_stretch obat yang menghilangkan pembengkakan akan kita kurangi sehingga pipisnya tidak terlalu berlebihan lagi
+adyta_kustanto-m_akt_c1_15_reverb obat yang menghilangkan pembengkakan akan kita kurangi sehingga pipisnya tidak terlalu berlebihan lagi
+adyta_kustanto-m_akt_c1_15_combine_pitch obat yang menghilangkan pembengkakan akan kita kurangi sehingga pipisnya tidak terlalu berlebihan lagi
+adyta_kustanto-m_akt_c1_15_combine_time_stretch obat yang menghilangkan pembengkakan akan kita kurangi sehingga pipisnya tidak terlalu berlebihan lagi
+adyta_kustanto-m_akt_c1_15_combine_reverb obat yang menghilangkan pembengkakan akan kita kurangi sehingga pipisnya tidak terlalu berlebihan lagi
+adyta_kustanto-m_akt_c1_16_combine_audio konsumsi obat akan kita sesuaikan dengan perkembangan pasien yang bersangkutan
+adyta_kustanto-m_akt_c1_16_pitch_change konsumsi obat akan kita sesuaikan dengan perkembangan pasien yang bersangkutan
+adyta_kustanto-m_akt_c1_16_time_stretch konsumsi obat akan kita sesuaikan dengan perkembangan pasien yang bersangkutan
+adyta_kustanto-m_akt_c1_16_reverb konsumsi obat akan kita sesuaikan dengan perkembangan pasien yang bersangkutan
+adyta_kustanto-m_akt_c1_16_combine_pitch konsumsi obat akan kita sesuaikan dengan perkembangan pasien yang bersangkutan
+adyta_kustanto-m_akt_c1_16_combine_time_stretch konsumsi obat akan kita sesuaikan dengan perkembangan pasien yang bersangkutan
+adyta_kustanto-m_akt_c1_16_combine_reverb konsumsi obat akan kita sesuaikan dengan perkembangan pasien yang bersangkutan
+adyta_kustanto-m_akt_c1_17_combine_audio evaluasi obat diikuti secara rutin kita juga akan tanyakan kepada pasien terkait keluhan yang dirasakan selama dalam masa pengobatan ini
+adyta_kustanto-m_akt_c1_17_pitch_change evaluasi obat diikuti secara rutin kita juga akan tanyakan kepada pasien terkait keluhan yang dirasakan selama dalam masa pengobatan ini
+adyta_kustanto-m_akt_c1_17_time_stretch evaluasi obat diikuti secara rutin kita juga akan tanyakan kepada pasien terkait keluhan yang dirasakan selama dalam masa pengobatan ini
+adyta_kustanto-m_akt_c1_17_reverb evaluasi obat diikuti secara rutin kita juga akan tanyakan kepada pasien terkait keluhan yang dirasakan selama dalam masa pengobatan ini
+adyta_kustanto-m_akt_c1_17_combine_pitch evaluasi obat diikuti secara rutin kita juga akan tanyakan kepada pasien terkait keluhan yang dirasakan selama dalam masa pengobatan ini
+adyta_kustanto-m_akt_c1_17_combine_time_stretch evaluasi obat diikuti secara rutin kita juga akan tanyakan kepada pasien terkait keluhan yang dirasakan selama dalam masa pengobatan ini
+adyta_kustanto-m_akt_c1_17_combine_reverb evaluasi obat diikuti secara rutin kita juga akan tanyakan kepada pasien terkait keluhan yang dirasakan selama dalam masa pengobatan ini
+adyta_kustanto-m_akt_c1_18_combine_audio jika ditemukan keluhan kita akan analisa apa yang kurang dari pengobatan tersebut
+adyta_kustanto-m_akt_c1_18_pitch_change jika ditemukan keluhan kita akan analisa apa yang kurang dari pengobatan tersebut
+adyta_kustanto-m_akt_c1_18_time_stretch jika ditemukan keluhan kita akan analisa apa yang kurang dari pengobatan tersebut
+adyta_kustanto-m_akt_c1_18_reverb jika ditemukan keluhan kita akan analisa apa yang kurang dari pengobatan tersebut
+adyta_kustanto-m_akt_c1_18_combine_pitch jika ditemukan keluhan kita akan analisa apa yang kurang dari pengobatan tersebut
+adyta_kustanto-m_akt_c1_18_combine_time_stretch jika ditemukan keluhan kita akan analisa apa yang kurang dari pengobatan tersebut
+adyta_kustanto-m_akt_c1_18_combine_reverb jika ditemukan keluhan kita akan analisa apa yang kurang dari pengobatan tersebut
